@@ -67,7 +67,7 @@ Although I never intended to be charmed by a field other than programming, as I 
 
 ## Projects
 - Detection Lab
-- SOC Automation Project
+- <a href="https://github.com/beersb/SOC-Automation-Lab/tree/main">SOC Automation Project</a>
 <!---
 beersb/beersb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
