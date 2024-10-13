@@ -1,17 +1,14 @@
 # Hello, I'm Brecken
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
 I am a recent graduate in Computer Science who can't get enough of all things cybersecurity. From exploring low-ish level languages like C and dabbling in computer architecture, to owning the web with Python or trying my hand at SQL Injection (on my own machines of course), to swapping sides and preventing evil by spinning up and automating a SIEM, it all fascinates me.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 Although I never intended to be charmed by a field other than programming, as I completed my degree program I fell under what can only be described as a powerful spell. Indeed, before I hardly knew what had occured, Cybersecurity had seduced and secured me. And what a strange mistress to find oneself in the power of-- with her strange intertwining of technical detail and sophistication with the romance of the hunt and heady fog of war. Needless to say, I am now quite eager to enter this vast and sometimes intimidating field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -23,7 +20,6 @@ Although I never intended to be charmed by a field other than programming, as I 
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -68,7 +64,4 @@ Although I never intended to be charmed by a field other than programming, as I 
 ## Projects
 - Detection Lab
 - <a href="https://github.com/beersb/SOC-Automation-Lab/tree/main">SOC Automation Project</a>
-<!---
-beersb/beersb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
