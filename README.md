@@ -44,14 +44,13 @@ Although I never intended to be charmed by a field other than programming, as I 
 ### Programming
 <div>
     <img src="https://img.shields.io/badge/-Python-006400?&style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SQL-088088?&style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 ## Certifications
 <div>
-    <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cybersecurity%20Professional%20Certificate-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
     <img src="https://img.shields.io/badge/-ITIL%204%20Foundation-4D4D4D?&style=for-the-badge&logo=itil&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Linux%20Essentials-F1E640?&style=for-the-badge&logo=linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LPI%20Linux%20Essentials-B8A606?&style=for-the-badge&logo=linux&logoColor=white" />
 </div>
 
 ### In Progress
