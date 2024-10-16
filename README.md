@@ -2,7 +2,7 @@
 <!-- <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
 
 
-I am a recent graduate in Computer Science who can't get enough of all things cybersecurity. From exploring system level languages like C and dabbling in computer architecture, to owning the web with Python or trying my hand at SQL Injection (on my own machines or in an appropriate environmentm, of course), to swapping sides and preventing evil by spinning up and automating a SIEM, it all fascinates me.
+I am a recent graduate in Computer Science who can't get enough of all things cybersecurity. From exploring system level languages like C and dabbling in computer architecture, to owning the web with Python or trying my hand at SQL Injection (on my own machines or in an appropriate environment, of course), to swapping sides and preventing evil by spinning up and automating a SIEM, it all fascinates me.
 
 ## Objective
 
