@@ -48,6 +48,7 @@ Although I never intended to be charmed by a field other than programming, as I 
 
 ## Certifications
 <div>
+    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
     <img src="https://img.shields.io/badge/-Cybersecurity%20Professional%20Certificate-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
     <img src="https://img.shields.io/badge/-ITIL%204%20Foundation-4D4D4D?&style=for-the-badge&logo=itil&logoColor=white" />
     <img src="https://img.shields.io/badge/-LPI%20Linux%20Essentials-B8A606?&style=for-the-badge&logo=linux&logoColor=white" />
@@ -55,7 +56,6 @@ Although I never intended to be charmed by a field other than programming, as I 
 
 ### In Progress
 <div>
-    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
     <img src="https://img.shields.io/badge/-CPTS-4F4F4F?&style=for-the-badge&logo=hackthebox&logoColor=white" />
     <img src="https://img.shields.io/badge/-OSCP-4B8BBE?&style=for-the-badge&logo=offensive-security&logoColor=white" />
 </div>
