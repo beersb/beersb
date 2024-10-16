@@ -2,22 +2,22 @@
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a recent graduate in Computer Science who can't get enough of all things cybersecurity. From exploring low-ish level languages like C and dabbling in computer architecture, to owning the web with Python or trying my hand at SQL Injection (on my own machines of course), to swapping sides and preventing evil by spinning up and automating a SIEM, it all fascinates me.
+I am a recent graduate in Computer Science who can't get enough of all things cybersecurity. From exploring system level languages like C and dabbling in computer architecture, to owning the web with Python or trying my hand at SQL Injection (on my own machines or in an appropriate environmentm, of course), to swapping sides and preventing evil by spinning up and automating a SIEM, it all fascinates me.
 
 ## Objective
 
-Although I never intended to be charmed by a field other than programming, as I completed my degree program I fell under what can only be described as a powerful spell. Indeed, before I hardly knew what had occured, Cybersecurity had seduced and secured me. And what a strange mistress to find oneself in the power of-- with her strange intertwining of technical detail and sophistication with the romance of the hunt and heady fog of war. Needless to say, I am now quite eager to enter this vast and sometimes intimidating field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I entered my degree program with a strong interest in programming and was therefore fully expecting to aim for software engineering positions after graduation. After a few exploratory courses, however, I fell under the powerful spell of cyber. The way that this domain intertwines the sophistication and technical detail of computer science with the mystery of subterfuge, counter-subterfuge, and the thrill of the chase was absolutely intoxicating to me. Needless to say, I am now quite eager to enter this vast and sometimes intimidating field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Network Log analysis         | <a href="https://google.com">Network Traffic Analysis Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Network Traffic Analysis Lab</a>|
 | Security Automation with Shuffle SOAR         | <a href="https://github.com/beersb/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Incident Response Planning and Execution      | <a href="https://github.com/beersb/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
+| Case Management with TheHive                  | <a href="https://github.com/beersb/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
+| Scripting and Automation for Threat Mitigation | <a href="https://github.com/beersb/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
 
 ## Tools
 
