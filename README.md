@@ -6,7 +6,7 @@ I am a recent graduate in Computer Science who can't get enough of all things cy
 
 ## Objective
 
-I entered my degree program with a strong interest in programming and was therefore fully expecting to aim for software engineering positions after graduation. After a few exploratory courses, however, I fell under the powerful spell of cyber. The way that this domain intertwines the sophistication and technical detail of computer science with the mystery of subterfuge, counter-subterfuge, and the thrill of the chase was absolutely intoxicating to me. Needless to say, I am now quite eager to enter this vast and sometimes intimidating field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I entered my degree program with a strong interest in programming and was therefore fully expecting to aim for software engineering positions after graduation. After a few exploratory courses, however, I fell under the powerful spell of cybersecurity. The way that this domain intertwines the sophistication and technical detail of computer science with the mystery of subterfuge, counter-subterfuge, and the thrill of the chase was absolutely intoxicating to me. Needless to say, I am now quite eager to enter this vast and sometimes intimidating field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 
