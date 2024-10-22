@@ -12,8 +12,8 @@ I entered my degree program with a strong interest in programming and was theref
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Network Log analysis         | <a href="https://google.com">Network Traffic Analysis Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Network Traffic Analysis Lab</a>|
+| Network Log analysis         | <a href="https://github.com/beersb/Network-Traffic-Analysis">Network Traffic Analysis Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/beersb/Network-Traffic-Analysis">Network Traffic Analysis Lab</a>|
 | Security Automation with Shuffle SOAR         | <a href="https://github.com/beersb/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
 | Incident Response Planning and Execution      | <a href="https://github.com/beersb/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
 | Scripting and Automation for Threat Mitigation | <a href="https://github.com/beersb/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
